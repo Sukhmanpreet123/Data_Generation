@@ -83,13 +83,14 @@ Models were compared using the following metrics:
 
 ##  Results Table
 
-| Model | MAE | RMSE | R² Score |
-|------|-----|------|---------|
-| Linear Regression |  |  | 0.9568 |
-| Random Forest |  |  | 0.9996 |
-| SVR (RBF Kernel) |  |  | 0.9977 |
-| Gradient Boosting |  |  | 0.9995 |
-| XGBoost |  |  | 0.9996 |
+| Model | R² Score |
+|------|----------|
+| Linear Regression | 0.9568 |
+| Random Forest | 0.9996 |
+| SVR (RBF Kernel) | 0.9977 |
+| Gradient Boosting | 0.9995 |
+| XGBoost | 0.9996 |
+
 
 ---
 
